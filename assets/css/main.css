@@ -1,5 +1,12 @@
 @import url(font-awesome.min.css);
 @import "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400";
+@import url('https://fonts.googleapis.com/css?family=Karla');
+@import url('https://fonts.googleapis.com/css?family=Rubik');
+@import url('https://fonts.googleapis.com/css?family=Work+Sans');
+@import url('https://fonts.googleapis.com/css?family=Arvo');
+@import 'https://fonts.googleapis.com/css?family=Lato:300,400';
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
 
 /*
 	Stellar by HTML5 UP
@@ -125,10 +132,13 @@ input, select, textarea {
 	}
 
 	body, input, select, textarea {
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		/*font-family: "Source Sans Pro", Helvetica, sans-serif;*/
+		font-family: "Open Sans", sans-serif;
+		/*font-family: "Arvo", serif;*/
 		font-size: 17pt;
 		font-weight: 300;
 		line-height: 1.65;
+		-webkit-font-smoothing: antialiased;
 	}
 
 		@media screen and (max-width: 1680px) {
@@ -2863,15 +2873,15 @@ input, select, textarea {
 		}
 
 			.statistics li.style1 {
-				background-color: #efa8b0;
+				background-color: #ec8d98;
 			}
 
 			.statistics li.style2 {
-				background-color: #c79cc8;
+				background-color: #c178c2;
 			}
 
 			.statistics li.style3 {
-				background-color: #a89cc8;
+				background-color: #8671be;
 			}
 
 			.statistics li.style4 {
