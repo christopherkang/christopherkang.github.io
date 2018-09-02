@@ -120,4 +120,9 @@
 			speed: 1000
 		});
 
-})(jQuery);
+	})(jQuery);
+function toBottom() {
+	//document.body.scrollTop = 0; // For Safari
+	//document.documentElement.scrollTop = document.body.scrollHeight; // For Chrome, Firefox, IE and Opera
+	$('html,body').animate({scrollTop: document.body.scrollHeight},"slow");
+}
