@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/christopherkang
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://christopherkang.me
+  * I am christopherkang (https://keybase.io/christopherkang) on keybase.
+  * I have a public key ASDXW83BvjmkeKrkyLtDlIgV9skvCwUVBLU4rlmAHm3J2wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d75bcdc1be39a478aae4c8bb43948815f6c92f0b051504b538ae59801e6dc9db0a",
+      "host": "keybase.io",
+      "kid": "0120d75bcdc1be39a478aae4c8bb43948815f6c92f0b051504b538ae59801e6dc9db0a",
+      "uid": "df1628032b747f77e4f5f3e346c57319",
+      "username": "christopherkang"
+    },
+    "merkle_root": {
+      "ctime": 1546996956,
+      "hash": "2430bdc3c21859705c75941133cd172e2725e28f7ff8b1754bc45794ca7b9846c34973f32bb607105c398d45731e2c9d237cee5918f3b15c313763ba561e3a1b",
+      "hash_meta": "ebe3e44cea00f185b4fb599c6d4837ec998bbdb24bda75f18f72695f6ed16886",
+      "seqno": 4256479
+    },
+    "service": {
+      "entropy": "2CkUbiJwUZPCo9Y/fsLuv24F",
+      "hostname": "christopherkang.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.12.3"
+  },
+  "ctime": 1546996975,
+  "expire_in": 504576000,
+  "prev": "cdc82b064c5f7a6b926fd7eaa428f811724d264454e4e3c29b5581d233c781e2",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg11vNwb45pHiq5Mi7Q5SIFfbJLwsFFQS1OK5ZgB5tydsKp3BheWxvYWTESpcCBcQgzcgrBkxfemuSb9fqpCj4EXJNJkRU5OPCm1WB0jPHgeLEIJ9gssWM6sboKHo6a5gPeluvHdVHbeE21epOBenY3sK3AgHCo3NpZ8RAfOM50AsrIW6xt42v34ejBVhsHlYlM621Q6FRMoy2crTRMyslh7Quw39Cedp3f/rNrBZjEVfw9fHcC+pzRIydCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMseBkUGithV5rdrpWzPaUhoMoyZxvcioXyS7xwY+UX1o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/christopherkang
+
+==================================================================
