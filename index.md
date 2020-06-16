@@ -14,16 +14,26 @@ Below are some notable papers I've prepared.
 
 ## Interests
 ### Computer Science & Math
-My research interests lie in quantum computing. Prior work includes explorations into Hamiltonian simulation via Trotterization 
+My research interests lie in quantum computing. Prior work includes explorations into Hamiltonian simulation via Trotterization.
 
 ### Economics
 I'm particularly interested in macroeconomics and monetary policy. I'll be taking Advanced Macroeconomics (ECON 401) this fall.
 
 ### Social Good & Organizational Leadership
-
+I am also interested in impact-oriented work, especially in empowering organizations to better serve their stakeholders. 
 
 
 # Extracurricular
 ## Leadership
-I currently serve as Chair of the [Student Advisory Council](sac.cs.washington.edu). I am lucky to serve with 15 other talented individuals. During my tenure, SAC has transformed to focus on faculty and staff relationships for actionable change.  
+I currently serve as Chair of the [Student Advisory Council](https://sac.cs.washington.edu). I am lucky to serve with 15 other talented individuals. During my tenure, SAC has transformed to focus on faculty and staff relationships for actionable change.  
 
+## Involvement
+* Diversity Committee (2019-)
+* Dawgbytes - K12 Outreach @ UW CSE (2019-)
+* SAC (2018-)
+* Q++ - LGBTQ @ UW CSE (2018-)
+
+## Awards
+* Top Honors Calculus Student (2019)
+* 1% Interdisciplinary Honors Student (2018)
+* Theta Chi Helping Hand Award (2018)
