@@ -1,6 +1,6 @@
 title: Christopher Kang
 logo: /assets/img/Kang_new_prof.jpg
-description: Chris Kang's Personal Website
-show_downloads: true
+description: Synopsis of me.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
