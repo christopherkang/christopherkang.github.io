@@ -6,7 +6,7 @@ published: true
 
 # Books read + Reviewed
 **2020**
-- (June; **Present**) _Becoming_, Michelle Obama
+- (June; **Present**) [_Becoming_](./2020_06_Becoming), Michelle Obama
 - (Jan) _The Friend_, Sigrid Núñez
 
 **2019**
