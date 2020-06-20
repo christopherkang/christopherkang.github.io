@@ -39,5 +39,6 @@ I currently serve as Chair of the [Student Advisory Council](https://sac.cs.wash
 * Theta Chi Helping Hand Award (2018)
 
 # Personal
-[Book list](./books)
+[Book list](./books) 
+
 [Honors Blog](./blog)
