@@ -37,3 +37,7 @@ I currently serve as Chair of the [Student Advisory Council](https://sac.cs.wash
 * Top Honors Calculus Student (2019)
 * 1% Interdisciplinary Honors Student (2018)
 * Theta Chi Helping Hand Award (2018)
+
+# Personal
+[Book list](./books)
+[Honors Blog](./blog)
