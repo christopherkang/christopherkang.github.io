@@ -6,9 +6,11 @@ published: true
 
 # Books read + Reviewed
 **2020**
+- (July; **Present**) *A Little Life*, Hanya Yanagihara
+- (July; **Present**) *Everything I Never Told You*, Celeste Ng
 - (June; **Present**) _Normal People_, Sally Rooney
-- (June; **Present**) _Little Fires Everywhere_, Celeste Ng
-- (June; **Present**) _The Road_, Cormac McCarthy
+- (June) _Little Fires Everywhere_, Celeste Ng
+- (June) _The Road_, Cormac McCarthy
 - (June) [_Becoming_](./2020_06_Becoming), Michelle Obama
 - (Jan) _The Friend_, Sigrid Núñez
 
