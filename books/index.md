@@ -6,9 +6,12 @@ published: true
 
 # Books read + Reviewed
 **2020**
+- (September; **Present**) *Powerful: Building a Culture of Freedom and Responsibility*, Patty McCord
+- (August) *The Gift of Therapy*, Irvin Yalom, MD
+- (August; **Present**) *Being Mortal*, Atul Gawande
 - (July; **Present**) *A Little Life*, Hanya Yanagihara
 - (July; **Present**) *Everything I Never Told You*, Celeste Ng
-- (June; **Present**) _Normal People_, Sally Rooney
+- (June) _Normal People_, Sally Rooney
 - (June) _Little Fires Everywhere_, Celeste Ng
 - (June) _The Road_, Cormac McCarthy
 - (June) [_Becoming_](./2020_06_Becoming), Michelle Obama
