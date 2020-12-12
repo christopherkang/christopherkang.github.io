@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 # Verify math
 ## CK
 
