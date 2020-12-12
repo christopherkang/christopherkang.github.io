@@ -4,3 +4,6 @@ description: I'm Chris Kang, a Computer Science / Economics / Mathematics major 
 show_downloads: false
 google_analytics: UA-169623724-1
 theme: jekyll-theme-minimal
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
