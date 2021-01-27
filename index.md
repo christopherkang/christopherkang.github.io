@@ -2,6 +2,12 @@
 layout: default
 published: true
 ---
+
+# Short Bio
+
+I'm Chris, a junior at the University of Washington double majoring in Computer Science and Economics. I have broad interests spanning quantum computing, macroeconomics, and public policy. In my current research, I'm studying how quantum algorithms could be co-designed with novel architectures and have previously worked on quantum Hamiltonian simulation. In my free time, I serve as Co-Chair of the CSE Student Advisory Council and a Board Member on the LGBTQ+@CSE group.
+
+
 # Academic
 ## Notable Papers
 * **[Strength Through Science: Optimizing the DOE National Laboratories](\assets\papers\Kang_2020Wi_PUBPOL_FinalPaper.pdf)** (Intro to Public Policy); a study investigating how Department of Energy National labs are operated and recommendations to improve their effectiveness.
@@ -10,7 +16,7 @@ published: true
 * **[Improving Financial Inclusion in Ghana](\assets\papers\Kang_2020Sp_Honors232_FIGhana.pdf)** (Social Entrepreneurship); research into existing strategies for financial inclusion in Ghana alongside strategies for public/private sectors players.
 
 
-## Interests
+<!-- ## Interests
 ### Computer Science & Math
 My research interests lie in quantum computing. Prior work includes explorations into Hamiltonian simulation via Trotterization.
 
@@ -18,7 +24,7 @@ My research interests lie in quantum computing. Prior work includes explorations
 I'm particularly interested in macroeconomics and monetary policy. I'll be taking Advanced Macroeconomics (ECON 401) this fall.
 
 ### Social Good & Organizational Leadership
-I am also interested in impact-oriented work, especially in empowering organizations to better serve their stakeholders. 
+I am also interested in impact-oriented work, especially in empowering organizations to better serve their stakeholders.  -->
 
 
 # Extracurricular
