@@ -1,9 +1,11 @@
 title: Christopher Kang
 logo: /assets/img/Kang_new_prof.jpg
-description: I'm Chris Kang, a Computer Science / Economics / Mathematics major at the University of Washington, Seattle.
+description: 
 show_downloads: false
 google_analytics: UA-169623724-1
 theme: jekyll-theme-minimal
 markdown: kramdown
 kramdown:
   math_engine: mathjax
+
+# I'm Chris Kang, a Computer Science / Economics / Mathematics major at the University of Washington, Seattle.
