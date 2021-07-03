@@ -12,14 +12,17 @@ I enjoy books that help me think in new perspectives. I have a particular affini
 I don't think I have a favorite book. I regularly read the NYT, WSJ, Brookings, AER, AER: Insights, and TED Ideas.
 
 **2021**
+- (July; **Present**) _The Age of Turbulence_, Alan Greenspan
+- (July; **Present**) _The Art of Doing Science and Engineering_, Richard W. Hamming
+- (July; **Present**) *A Little Life*, Hanya Yanagihara
 - (June) _Pachinko_, Min Jin Lee
 
 **2020**
-- (September; **Present**) *Powerful: Building a Culture of Freedom and Responsibility*, Patty McCord
+- (September; Paused) *Powerful: Building a Culture of Freedom and Responsibility*, Patty McCord
 - (August) *The Gift of Therapy*, Irvin Yalom, MD
-- (August; **Present**) *Being Mortal*, Atul Gawande
-- (July; **Present**) *A Little Life*, Hanya Yanagihara
-- (July; **Present**) *Everything I Never Told You*, Celeste Ng
+- (August; Paused) *Being Mortal*, Atul Gawande
+- (July; Paused) *A Little Life*, Hanya Yanagihara
+- (July; Paused) *Everything I Never Told You*, Celeste Ng
 - (June) _Normal People_, Sally Rooney
 - (June) _Little Fires Everywhere_, Celeste Ng
 - (June) _The Road_, Cormac McCarthy
