@@ -4,12 +4,12 @@ published: true
 ---
 [Main page](../)
 
-# Books read + Reviewed
+# Reading
 My reading habits are sinusoidal, but I'm working at making them more regular.
 
 I enjoy books that help me think in new perspectives. I have a particular affinity for books that are emotionally devastating.
 
-I don't think I have a favorite book.
+I don't think I have a favorite book. I regularly read the NYT, WSJ, Brookings, AER, AER: Insights, and TED Ideas.
 
 **2021**
 - (June) _Pachinko_, Min Jin Lee
