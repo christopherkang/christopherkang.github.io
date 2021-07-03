@@ -5,6 +5,15 @@ published: true
 [Main page](../)
 
 # Books read + Reviewed
+My reading habits are sinusoidal, but I'm working at making them more regular.
+
+I enjoy books that help me think in new perspectives. I have a particular affinity for books that are emotionally devastating.
+
+I don't think I have a favorite book.
+
+**2021**
+- (June) _Pachinko_, Min Jin Lee
+
 **2020**
 - (September; **Present**) *Powerful: Building a Culture of Freedom and Responsibility*, Patty McCord
 - (August) *The Gift of Therapy*, Irvin Yalom, MD
