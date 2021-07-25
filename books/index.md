@@ -12,10 +12,11 @@ I enjoy books that help me think in new perspectives. I have a particular affini
 I don't think I have a favorite book. I regularly read the NYT, WSJ, Brookings, AER, AER: Insights, and TED Ideas.
 
 **2021**
+- (July; **Present**) *Red Pill*, Hari Kunzru
 - (July) *Being Mortal*, Atul Gawande
 - (July; **Present**) _The Age of Turbulence_, Alan Greenspan
 - (July; **Present**) _The Art of Doing Science and Engineering_, Richard W. Hamming
-- (July; **Present**) *A Little Life*, Hanya Yanagihara
+- (July) *A Little Life*, Hanya Yanagihara
 - (June) _Pachinko_, Min Jin Lee
 
 **2020**
