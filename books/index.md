@@ -39,3 +39,8 @@ I don't think I have a favorite book. I regularly read the NYT, WSJ, Brookings, 
 - (Aug) _Brain on Fire: My Month of Madness_, Susannah Cahalan
 - (Apr) _A Mind Unraveled_, Kurt Eichenwald
 - (Mar) _Bad Blood_, John Carreyrou
+
+**To-Read**
+- The other Wes Moore
+- prodigal summer 
+- Cooked
