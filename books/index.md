@@ -41,6 +41,13 @@ I don't think I have a favorite book. I regularly read the NYT, WSJ, Brookings, 
 - (Mar) _Bad Blood_, John Carreyrou
 
 **To-Read**
-- The other Wes Moore
-- prodigal summer 
-- Cooked
+- The other Wes Moore (Jackie)
+- prodigal summer (Kohya) 
+- Cooked (Kohya)
+- The Sellout (Kohya)
+- red white and royal blue (Shumaila)
+- The Everything Store: Jeff Bezos and the Age of Amazon (Josh Raines)
+- the lily of the field and the bird of the air (Lamar)
+- Scarcity: Why Having Too Little Means So Much (Mike Schwartz)
+- Austin Kleon books (https://austinkleon.com/books/)
+- 
