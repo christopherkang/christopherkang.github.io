@@ -12,6 +12,8 @@ I enjoy books that help me think in new perspectives. I have a particular affini
 I don't think I have a favorite book. I regularly read the NYT, WSJ, Brookings, AER, AER: Insights, and TED Ideas.
 
 **2021**
+- (August; **Present**) *The Story of a Brief Marriage*, Anuk Arudpragasam
+- (August; **Present**) *Where Reasons End*, Yiyun Li
 - (July) *Imagine Me Gone*, Adam Haslett
 - (July) *Red Pill*, Hari Kunzru
 - (July) *Being Mortal*, Atul Gawande
@@ -51,4 +53,4 @@ I don't think I have a favorite book. I regularly read the NYT, WSJ, Brookings, 
 - the lily of the field and the bird of the air (Lamar)
 - Scarcity: Why Having Too Little Means So Much (Mike Schwartz)
 - Austin Kleon books (https://austinkleon.com/books/)
-- 
+- Shockwave Rider (Simson Garfinkel)
