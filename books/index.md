@@ -54,3 +54,12 @@ I don't think I have a favorite book. I regularly read the NYT, WSJ, Brookings, 
 - Scarcity: Why Having Too Little Means So Much (Mike Schwartz)
 - Austin Kleon books (https://austinkleon.com/books/)
 - Shockwave Rider (Simson Garfinkel)
+- Did You Ever Have a Family
+- The Kite Runner; A Thousand Splendid Suns; And the Mountains Echoed (Michelle)
+- Citation (Nathan W)
+
+**For Policy Statements**
+- This Is How They Tell Me the World Ends: The Cyberweapons Arms Race (Jeanna)
+- The Age of Surveillance Capitalism (Jeanna)
+- Weapons of Math Destruction (Jeanna)
+- Coded Bias (Jeanna, https://lin-web.clarkson.edu/~jmatthew/films2021/)

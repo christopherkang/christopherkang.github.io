@@ -33,8 +33,9 @@ I am also interested in impact-oriented work, especially in empowering organizat
 I currently serve as Chair of the [Student Advisory Council](https://sac.cs.washington.edu). I am lucky to serve with 15 other talented individuals. During my tenure, SAC has transformed to focus on faculty and staff relationships for actionable change.  
 
 ## Involvement
-* Diversity Committee (2019-)
-* Dawgbytes - K12 Outreach @ UW CSE (2019-)
+* ACM US Tech Policy Council (2021-)
+* UW CSE Diversity Committee (2019-)
+* Dawgbytes - K12 Outreach @ UW CSE (2019-2020)
 * SAC (2018-)
 * Q++ - LGBTQ @ UW CSE (2018-)
 
