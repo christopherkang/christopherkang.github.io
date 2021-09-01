@@ -12,6 +12,9 @@ I enjoy books that help me think in new perspectives. I have a particular affini
 I don't think I have a favorite book. I regularly read the NYT, WSJ, Brookings, AER, AER: Insights, and TED Ideas.
 
 **2021**
+- (August) *When Breath Becomes Air*, Paul Kalanithi
+- (August) *Carry On*, Rainbow Rowell
+- (August) *A Single Man*, Christopher Isherwood
 - (August; **Present**) *The Story of a Brief Marriage*, Anuk Arudpragasam
 - (August; **Present**) *Where Reasons End*, Yiyun Li
 - (July) *Imagine Me Gone*, Adam Haslett
@@ -57,9 +60,13 @@ I don't think I have a favorite book. I regularly read the NYT, WSJ, Brookings, 
 - Did You Ever Have a Family
 - The Kite Runner; A Thousand Splendid Suns; And the Mountains Echoed (Michelle)
 - Citation (Nathan W)
+- Pessoa: A Biography (NYT)
 
 **For Policy Statements**
 - This Is How They Tell Me the World Ends: The Cyberweapons Arms Race (Jeanna)
 - The Age of Surveillance Capitalism (Jeanna)
 - Weapons of Math Destruction (Jeanna)
 - Coded Bias (Jeanna, https://lin-web.clarkson.edu/~jmatthew/films2021/)
+
+**Econ Research**
+- The Microsoft Antitrust Cases: Competition Policy for the Twenty-first Century, By Andrew I. Gavil and Harry First (Yuya)
