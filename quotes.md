@@ -11,3 +11,5 @@ Respect yourself enough to walk away from anything that no longer serves you, gr
 The curator’s creed is: ask not what your stuff can do for you, but what you can do for your stuff. (Glenn Adamson, https://psyche.co/guides/dont-just-tidy-curating-your-stuff-will-make-for-a-true-home)
 
 People don't care how much you know until they know how much you care. (Teddy Roosevelt)
+
+Our greatest glory is not in never falling, but in rising every time we fall. (Confucius)
