@@ -1,0 +1,239 @@
+\documentclass{article}
+\usepackage[dvipsnames]{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath, amsfonts}
+\usepackage{braket}
+\usepackage{graphicx}
+\usepackage{mathtools}
+% \usepackage{thmbox}
+\usepackage{amsthm}
+\usepackage{qcircuit}
+\usepackage{dsfont}
+\usepackage{tikz}
+\usepackage{mathtools}
+\usepackage{enumerate}
+
+\usepackage{caption}
+\usepackage[colorlinks,allcolors=blue]{hyperref} % optional
+\usepackage[noabbrev,capitalize,nameinlink]{cleveref}
+\usepackage[ruled,vlined]{algorithm2e}
+\usepackage[style=numeric, sorting=none]{biblatex}
+\addbibresource{references.bib}
+
+\usepackage{geometry}
+\geometry{margin=1in}
+
+\title{ECON Brainstorming}
+\author{Christopher Kang \\
+\href{https://www.overleaf.com/read/xbkhntchwshn}{Click for Latest Version}}
+\date{\today}
+
+\newcommand{\kron}{\otimes}
+\newcommand{\norm}[1]{\left\lVert#1\right\rVert}
+\newcommand{\identity}{\mathds{1}}
+\newcommand{\how}[1]{\colorbox{BurntOrange}{\textbf{#1}}}
+\DeclareMathOperator{\Tr}{Tr}
+
+\DeclarePairedDelimiter\ceil{\lceil}{\rceil}
+\DeclarePairedDelimiter\floor{\lfloor}{\rfloor}
+
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{claim}{Claim}[section]
+\newtheorem{lemma}{Lemma}[section]
+\newtheorem{fact}{Fact}
+\newtheorem{corr}{Corollary}[section]
+\newtheorem{define}{Definition}
+\newtheorem{problem}{Problem}[section]
+\newtheorem{practice}{Practice}[section]
+\newtheorem{question}{Question}
+
+\newcommand{\indep}{\perp \!\!\! \perp}
+
+\renewcommand{\thesubsection}{\thesection.\alph{subsection}}
+
+\begin{document}
+
+\maketitle
+
+We will begin by restating some useful theorems:
+\how{fill me in}
+
+%%1
+\section{}
+\subsection{}
+Yes, $A$ and $B$ can be mutually exclusive. Recall that:
+\begin{align}
+    \mathbb{P}[A \cup B] = \mathbb{P}[A] + \mathbb{P}[B] - \mathbb{P}[A \cap B] \implies \mathbb{P}[A \cap B] = \mathbb{P}[A] + \mathbb{P}[B] - \mathbb{P}[A \cup B]
+\end{align}
+
+We also know that: \how{need to resolve this still}
+\begin{align}
+    \max(\mathbb{P}[A], \mathbb{P}[B]) \leq \mathbb{P}[A \cup B] \leq
+\end{align}
+
+\how{I need to explain this lol}
+
+\subsection{}
+
+\subsection{}
+
+\subsection{}
+
+\subsection{}
+No. Suppose, by contradiction, that $A, B$ mutually exclusive and $A \indep B$. If this were the case, then:
+\begin{align}
+    \mathbb{P}[A \cap B] = 0 = \mathbb{P}[A] \mathbb{P}[B]
+\end{align}
+
+However, we know that $\mathbb{P}[A] \mathbb{P}[B] = 0.12$, a contradiction. Thus, $A, B$ cannot be both. 
+
+\subsection{}
+Recall our equation from (e):
+\begin{align}
+    \mathbb{P}[A \cap B] = 0 = \mathbb{P}[A] \mathbb{P}[B]
+\end{align}
+
+This is true if and only if one of the probabilities take on the value $0$. Thus, because all probabilities are nonnegative,
+\begin{align}
+    \min \{ \mathbb{P}[C], \mathbb{P}[D] \} = 0 
+\end{align}
+
+\newpage %% 2
+\section{}
+Call the event $W \leq 0$ to be $\mathcal{E}_{\leq}$ and $W \geq 0$ to be $\mathcal{E}_\geq$. Then, note that $\mathcal{E}_\leq \cap \mathcal{E}_\geq$ is precisely the event where $W = 0$. Thus, by provided theorems, we know that:
+\begin{align}
+    \mathbb{P}[\mathcal{E}_\leq \cup \mathcal{E}_\geq] &= \mathbb{P}[\mathcal{E}_\leq] + \mathbb{P}[\mathcal{E}_\geq] - \mathbb{P}[\mathcal{E}_\leq \cap \mathcal{E}_\geq]  \\
+    1 &= c + d - \mathbb{P}[W = 0] \\
+    \mathbb{P}[W = 0] &= c + d - 1
+\end{align}
+
+
+% \begin{align}
+%     \mathbb{P}[\mathcal{E}_\leq \cap \mathcal{E}_\geq] \leq \min \left(\mathbb{P}[\mathcal{E}_\leq], \mathbb{P}[\mathcal{E}_\geq]\right) = \min(c, d)
+% \end{align}
+
+% Furthermore, we can produce a lower bound on the event by recognizing $\mathcal{E}_\leq \cup \mathcal{E}_\geq = \mathcal{S}$ where $S$ is the sample space, so that:
+
+% \how{i need to lower bound lmao}
+
+\newpage %% 3
+\section{}
+\subsection{}
+No - because $\mathbb{P}[A \cap B] \neq 0$, $A, B$ are not mutually exclusive. 
+
+\subsection{}
+From prior theorems, note that:
+\begin{align}
+    \mathbb{P}[A \cap B] \leq \mathbb{P}[B] \leq \mathbb{P}[A \cup B] \implies \mathbb{P}[B] \in [1/8, 1/2]
+\end{align}
+
+\subsection{}
+We will employ a proof by contradiction. Suppose that $A \indep B$, so that:
+\begin{align}
+    \frac{1}{8} = \mathbb{P}[A] \mathbb{P}[B]
+\end{align}
+
+Consider that:
+\begin{align}
+    \mathbb{P}[A \cup B] = \mathbb{P}[A] + \mathbb{P}[B] - \mathbb{P}[A \cap B] \implies \frac{5}{8} - \mathbb{P}[B]= \mathbb{P}[A]
+\end{align}
+
+This requires:
+\begin{align}
+    \frac{1}{8} = \left( \frac{5}{8} - \mathbb{P}[B] \right) \mathbb{P}[B] \implies \mathbb{P}[B]^2 - \frac{5}{8}\mathbb{P}[B] + \frac{1}{8} = 0
+\end{align}
+
+We can solve this via the quadratic equation, but it's unnecessary; a simple test of $b^2 - 4ac$ demonstrates that there are no real solutions for $\mathbb{P}[B]$:
+\begin{align}
+    \frac{25}{64} - \frac{1}{2} < 0
+\end{align}
+
+Thus, our assumption was false and we cannot have that $A \indep B$. 
+
+
+
+
+\newpage %% 4
+\section{}
+\subsection{}
+Recall that $\mathbb{P}[A \cup B] \geq \max(\mathbb{P}[A], \mathbb{P}[B])$, so $r \geq \max(\mathbb{P}[A], \mathbb{P}[B]), s \geq \max(\mathbb{P}[A], \mathbb{P}[C])$. Thus, it's conceivable that, when $\mathbb{P}[B] = r, \mathbb{P}[C] = s$, that we can allow $\mathbb{P}[A] = 0$.
+
+On the other hand, let's consider the maximal value $\mathbb{P}[A]$ could be. Note that $\mathbb{P}[A] \leq \mathbb{P}[A \cup B], \mathbb{P}[A] \leq \mathbb{P}[A \cup C]$ by the above statements. Thus, $\mathbb{P}[A] \leq \min(\mathbb{P}[A \cup B], \mathbb{P}[A \cup C]) = \min(r, s)$. So, we conclude:
+\begin{align}
+    0 \leq \mathbb{P}[A] \leq \min(r, s)
+\end{align}
+
+\subsection{}
+\how{um who knows lmao}
+
+\newpage %% 5
+\section{}
+\subsection{}
+
+\subsection{}
+
+\subsection{}
+
+\subsection{}
+
+\subsection{}
+
+\subsection{}
+
+\subsection{}
+
+\newpage %% 6 
+\section{}
+\subsection{}
+
+\subsection{}
+
+\subsection{}
+
+\subsection{}
+
+\newpage %% 7
+\section{}
+\subsection{}
+\begin{proof}
+We seek to show that $A^C \indep B^C$ by demonstrating that $\mathbb{P}[A^C \cap B^C] = \mathbb{P}[A^C] \mathbb{P}[B^C]$. Recall that, if we partition the sample space, it's probability must sum to 1. Thus,
+\begin{align}
+    \mathbb{P}[A \cup B] + \mathbb{P}[\widetilde{A \cup B}] &= 1 \\
+    \mathbb{P}[A] + \mathbb{P}[B] - \mathbb{P}[A \cap B] + \mathbb{P}[A^C \cap B^C] &= 1 \\
+    \mathbb{P}[A^C \cap B^C] &= 1 - \mathbb{P}[A] - \mathbb{P}[B] + \mathbb{P}[A] \mathbb{P}[B] \\
+    &= 1 - \mathbb{P}[A] - \mathbb{P}[B](1 - \mathbb{P}[A]) \\
+    &= (1 - \mathbb{P}[B])(1- \mathbb{P}[A]) \\
+    \mathbb{P}[A^C \cap B^C] &= \mathbb{P}[A^C] \mathbb{P}[B^C] 
+\end{align}
+
+As desired.
+\end{proof}
+
+
+\subsection{}
+
+\subsection{}
+$A \indep B$:
+\begin{proof}
+We seek to show $\mathbb{P}[A \cap B] = \mathbb{P}[A] \mathbb{P}[B]$. Note that $\mathbb{P}[A]$ is $\frac{1}{6}$, as is $\mathbb{P}[B]$. We also know that $\mathbb{P}[A \cap B] = \frac{1}{36}$, because there is only one possibility where both die are 6 $(6, 6)$, while there are 36, equally likely possibilities for both die roles. Thus,
+\begin{align}
+    \mathbb{P}[A \cap B] = \frac{1}{36} = \frac{1}{6} \cdot \frac{1}{6} = \mathbb{P}[A] \mathbb{P}[B]
+\end{align}
+\end{proof}
+
+$A \not \indep B | D$ \how{?}
+\begin{proof}
+
+\end{proof}
+
+
+\printbibliography
+\end{document}
+
+
+
+% This is actually the Taylor series for $e^x$; so, substituting, we see:
+
+% \begin{align}
+%     &= 2 \Big[ \sum_{k = 0}^{\infty} \frac{1}{k!} \Big(\frac{2\lambda t}{N}\Big)^k - 1 - \Big(\frac{2\lambda t}{N}\Big) \Big]
+% \end{align}

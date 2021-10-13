@@ -13,3 +13,5 @@ The curator’s creed is: ask not what your stuff can do for you, but what you c
 People don't care how much you know until they know how much you care. (Teddy Roosevelt)
 
 Our greatest glory is not in never falling, but in rising every time we fall. (Confucius)
+
+But holding Michael had always been like holding a little person, who knew that his feeding would end, who knew that if you were picked up you would be put down, that the comfort came but also went. Without knowing what it was, I'd felt that tension in his little groping arms and fitful legs, the discomfort of the foreknowledge." (Imagine Me Gone)
