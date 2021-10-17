@@ -5,7 +5,15 @@ published: true
 
 # Short Bio
 
-I'm Chris, a junior at the University of Washington double majoring in Computer Science and Economics. I have broad interests spanning quantum computing, macroeconomics, and public policy. In my current research, I'm studying how quantum algorithms could be co-designed with novel architectures and have previously worked on quantum Hamiltonian simulation. In my free time, I serve as Co-Chair of the CSE Student Advisory Council and a Board Member on the LGBTQ+@CSE group.
+I'm Chris, a senior at the University of Washington double majoring in Computer Science and Economics. My research interests are focused in two areas: co-designing quantum algorithms with hardware and general theory research into quantum algorithms. Beyond my research, I am interested in the macroeconomics of inequality and tech policy. 
+
+<!-- In my current research, I'm studying how quantum algorithms could be co-designed with novel architectures and have previously worked on quantum Hamiltonian simulation. In my free time, I serve as Co-Chair of the CSE Student Advisory Council and a Board Member on the LGBTQ+@CSE group. -->
+
+
+# Current Projects (Research & Otherwise)
+* **Memory-efficient phase estimation-based Hamiltonian simulation techniques**
+* **Co-designed control algorithms for hybrid boson-qubit quantum computers**
+* **General USTPC tech policy recommendations**
 
 
 # Academic
@@ -31,7 +39,7 @@ I am also interested in impact-oriented work, especially in empowering organizat
 
 # Extracurricular
 ## Leadership
-I currently serve as Chair of the [Student Advisory Council](https://sac.cs.washington.edu). I am lucky to serve with 15 other talented individuals. During my tenure, SAC has transformed to focus on faculty and staff relationships for actionable change.  
+I served as Chair/Co-Chair of the [Student Advisory Council](https://sac.cs.washington.edu). During my tenure, SAC has transformed to focus on faculty and staff relationships for actionable change. My main regret was that I wasn't able to do more due to personal limitations; I hope to continue honing my leadership skills for the next opportunity.
 
 ## Involvement
 * ACM US Tech Policy Council (2021-)
@@ -41,6 +49,9 @@ I currently serve as Chair of the [Student Advisory Council](https://sac.cs.wash
 * Q++ - LGBTQ @ UW CSE (2018-)
 
 ## Awards
+I have been graciously supported by the Mathematics, Economics, and Computer Science departments / schools:
+* Hellmut Golde Endowed Scholarship, UW CSE (2021)
+* George and Pearl Corkery Scholarship in Economics (2021)
 * Top Honors Calculus Student (2019)
 * 1% Interdisciplinary Honors Student (2018)
 * Theta Chi Helping Hand Award (2018)
