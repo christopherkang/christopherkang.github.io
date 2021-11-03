@@ -18,7 +18,7 @@ I'm Chris, a senior at the University of Washington double majoring in Computer 
 
 # Academic
 ## Notable Papers
-* (New!) **[Statement on Principles for the Development and Deployment of Equitable, Private, and Secure Remote Test Administration Systems](\assets\papers\ustpc-statement-remote-test-admin-systems.pdf)** (USTPC); Statement published by the Association for Computing Machinery, written with the support of Simson Garfinkel and Jeanna Matthews
+* (New!) **[Statement on Principles for the Development and Deployment of Equitable, Private, and Secure Remote Test Administration Systems](\assets\papers\ustpc-statement-remote-test-admin-systems.pdf)** and **[accompanying Op-Ed](https://www.insidehighered.com/views/2021/11/03/questions-colleges-should-ask-about-remote-testing-opinion)** (USTPC); Statement published by the Association for Computing Machinery, written with the support of Simson Garfinkel, Jeanna Matthews, and Jeremy Epstein.
 * (New!) **[A Computational Approach To Understanding Lobbying Behavior](\assets\papers\Kang_2021Sp_CSE547_Lobbying.pdf)** (Big Data); A paper describing computational methods for studying lobbyist behavior. Written with the S-tier [Jacob Peplins](http://ubicomp-jake.com/).
 * **[Strength Through Science: Optimizing the DOE National Laboratories](\assets\papers\Kang_2020Wi_PUBPOL_FinalPaper.pdf)** (Intro to Public Policy); a study investigating how Department of Energy National labs are operated and recommendations to improve their effectiveness.
 * **[Randomized Hamiltonian Compilation](\assets\papers\Kang_2020Sp_CSE_RandomizedHamiltonian.pdf)** (Graduate Quantum Computing); demonstrating core equations in [Earl Campbell's random Hamiltonian Compilation](https://arxiv.org/abs/1811.08017) for quantum simulation.
