@@ -21,6 +21,7 @@ I think out loud and am lucky to have a team of people who support my thinking p
 ### PNNL Colleagues
 - Sriram Krishnamoorthy
 - Tobias Hagge
+- Karol Kowalski
 
 
 ### Friends and Peers
