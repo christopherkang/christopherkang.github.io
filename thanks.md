@@ -16,12 +16,14 @@ I think out loud and am lucky to have a team of people who support my thinking p
 - Paul Beame
 - Greg Miller
 - Brian Greaney
+- Yoshi Kohno
 
 
 ### PNNL Colleagues
 - Sriram Krishnamoorthy
 - Tobias Hagge
 - Karol Kowalski
+- Nick Bauman
 
 
 ### Friends and Peers
@@ -34,6 +36,13 @@ I think out loud and am lucky to have a team of people who support my thinking p
 - Joe Spaniac
 - Jaden Wang
 - Jacob Peplinski
+- Millicent Li
+- Mrigank Arora
+- Ewin Tang
 
 ### Family
 - My parents and sisters
+
+### USTPC
+- Simson Garfinkel
+- Jeanna Matthews

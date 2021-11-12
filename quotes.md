@@ -15,3 +15,5 @@ People don't care how much you know until they know how much you care. (Teddy Ro
 Our greatest glory is not in never falling, but in rising every time we fall. (Confucius)
 
 But holding Michael had always been like holding a little person, who knew that his feeding would end, who knew that if you were picked up you would be put down, that the comfort came but also went. Without knowing what it was, I'd felt that tension in his little groping arms and fitful legs, the discomfort of the foreknowledge." (Imagine Me Gone)
+
+“It is not true that everyone is special. It is true that everyone was once special and still possesses the ability to recover it.” (Criss Jami)
