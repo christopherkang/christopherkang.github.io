@@ -6,6 +6,7 @@ layout: default
 Movies:
 - Miss Sloane
 - A Single Man
+- Jackie
 
 Books:
 - Cold Mountain
