@@ -1,0 +1,9 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[1] Config.pm:314> INFO - Logfile is '211009.blg'
+[336] biber-MSWIN64:340> INFO - === 
+[446] Biber.pm:415> INFO - Reading '211009.bcf'
+[779] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[791] Utils.pm:395> WARN - The file '211009.bcf' does not contain any citations!
+[813] bbl.pm:654> INFO - Writing '211009.bbl' with encoding 'UTF-8'
+[814] bbl.pm:757> INFO - Output to 211009.bbl
+[814] Biber.pm:128> INFO - WARNINGS: 1
