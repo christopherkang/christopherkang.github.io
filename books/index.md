@@ -9,19 +9,24 @@ My reading habits are sinusoidal, but I'm working at making them more regular.
 
 I enjoy books that help me think in new perspectives. I have a particular affinity for books that are emotionally devastating.
 
-I don't think I have a favorite book. I regularly read the NYT, WSJ, Brookings, AER, AER: Insights, and TED Ideas.
+I don't think I have a favorite book. I regularly read the NYT, WSJ, Brookings, AER, AER: Insights, and TED Ideas. I also enjoy Psyche and Aeon.
 
 **2021**
+- (December; **Present**) *One Flew Over the Cuckoo's Nest*, Ken Kesey (courtesy to Chaytan for the recommendation)
+- (December; **Present**) *Walden*, Henry David Thoreau (courtesy to Chaytan for the recommendation)
+- (December) *The Great Alone*, Kristin Hannah
+- (December) *Cold Mountain*, Charles Frazier
+- (November) *Melisande! What are dreams?*, Hillel Halkin (courtesy to Stefan for the recommendation and loan)
 - (August) *When Breath Becomes Air*, Paul Kalanithi
 - (August) *Carry On*, Rainbow Rowell
 - (August) *A Single Man*, Christopher Isherwood
-- (August; **Present**) *The Story of a Brief Marriage*, Anuk Arudpragasam
-- (August; **Present**) *Where Reasons End*, Yiyun Li
+- (August; Paused) *The Story of a Brief Marriage*, Anuk Arudpragasam
+- (August; Paused) *Where Reasons End*, Yiyun Li
 - (July) *Imagine Me Gone*, Adam Haslett
 - (July) *Red Pill*, Hari Kunzru
 - (July) *Being Mortal*, Atul Gawande
-- (July; **Present**) _The Age of Turbulence_, Alan Greenspan
-- (July; **Present**) _The Art of Doing Science and Engineering_, Richard W. Hamming
+- (July; Paused) _The Age of Turbulence_, Alan Greenspan
+- (July; Paused) _The Art of Doing Science and Engineering_, Richard W. Hamming
 - (July) *A Little Life*, Hanya Yanagihara
 - (June) _Pachinko_, Min Jin Lee
 
