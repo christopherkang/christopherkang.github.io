@@ -12,7 +12,8 @@ I enjoy books that help me think in new perspectives. I have a particular affini
 I don't think I have a favorite book. I regularly read the NYT, WSJ, Brookings, AER, AER: Insights, and TED Ideas. I also enjoy Psyche and Aeon.
 
 **2021**
-- (December; **Present**) *One Flew Over the Cuckoo's Nest*, Ken Kesey (courtesy to Chaytan for the recommendation)
+- (December; **Present**) *Lost And Wanted*, Nell Freudenberger
+- (December) *One Flew Over the Cuckoo's Nest*, Ken Kesey (courtesy to Chaytan for the recommendation)
 - (December; **Present**) *Walden*, Henry David Thoreau (courtesy to Chaytan for the recommendation)
 - (December) *The Great Alone*, Kristin Hannah
 - (December) *Cold Mountain*, Charles Frazier
@@ -52,6 +53,7 @@ I don't think I have a favorite book. I regularly read the NYT, WSJ, Brookings, 
 - (Mar) _Bad Blood_, John Carreyrou
 
 **To-Read**
+- Parable of the Sower (Chaytan)
 - The other Wes Moore (Jackie)
 - prodigal summer (Kohya) 
 - Cooked (Kohya)
