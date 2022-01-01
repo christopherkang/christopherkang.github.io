@@ -12,10 +12,11 @@ I enjoy books that help me think in new perspectives. I have a particular affini
 I don't think I have a favorite book. I regularly read the NYT, WSJ, Brookings, AER, AER: Insights, and TED Ideas. I also enjoy Psyche and Aeon.
 
 **2021**
-- (December; **Present**) *Lost And Wanted*, Nell Freudenberger
+- (December) *Lost And Wanted*, Nell Freudenberger
 - (December) *One Flew Over the Cuckoo's Nest*, Ken Kesey (courtesy to Chaytan for the recommendation)
 - (December; **Present**) *Walden*, Henry David Thoreau (courtesy to Chaytan for the recommendation)
 - (December) *The Great Alone*, Kristin Hannah
+- (December) *A Single Man*, Christopher Isherwood (Re-read)
 - (December) *Cold Mountain*, Charles Frazier
 - (November) *Melisande! What are dreams?*, Hillel Halkin (courtesy to Stefan for the recommendation and loan)
 - (August) *When Breath Becomes Air*, Paul Kalanithi
