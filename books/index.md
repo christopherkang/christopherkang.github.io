@@ -70,6 +70,7 @@ I don't think I have a favorite book. I regularly read the NYT, WSJ, Brookings, 
 - The Kite Runner; A Thousand Splendid Suns; And the Mountains Echoed (Michelle)
 - Citation (Nathan W)
 - Pessoa: A Biography (NYT)
+- Beggars in Spain (Zoe)
 
 **For Policy Statements**
 - This Is How They Tell Me the World Ends: The Cyberweapons Arms Race (Jeanna)
