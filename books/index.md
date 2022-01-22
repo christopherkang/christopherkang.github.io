@@ -11,6 +11,10 @@ I enjoy books that help me think in new perspectives. I have a particular affini
 
 I don't think I have a favorite book. I regularly read the NYT, WSJ, Brookings, AER, AER: Insights, and TED Ideas. I also enjoy Psyche and Aeon.
 
+**2022**
+- (January) *Autonomous*, Annalee Newitz
+- (January) *The Road*, Cormac McCarthy (Re-read)
+
 **2021**
 - (December) *Lost And Wanted*, Nell Freudenberger
 - (December) *One Flew Over the Cuckoo's Nest*, Ken Kesey (courtesy to Chaytan for the recommendation)
