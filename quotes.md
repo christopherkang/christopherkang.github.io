@@ -25,3 +25,11 @@ There comes a time in man's search for meaning when he realises that there are n
 You cannot shake hands with a clenched fist. (Indira Gandhi)
 
 The real question is: who has the responsibility to uphold human rights? The answer to that is: everyone. (Madeleine Albright)
+
+The danger of computers becoming like humans is not as great as the danger of humans becoming like computers. (Konrad Zuse)
+
+Where there is discord, may we bring harmony. Where there is error, may we bring truth. Where there is doubt, may we bring faith. And where there is despair, may we bring hope. (Margaret Thatcher paraphrasing St. Francis of Assisi)
+
+If most of us are ashamed of shabby clothes and shoddy furniture, let us be more ashamed of shabby ideas and shoddy philosophies. (Unknown)
+
+You have to live with your mind your whole life... You build your mind. So make it into something you want to live with. (Marilynne Robinson, h/t [Wired](https://www.wired.com/story/how-we-learned-to-love-pedagogical-vapor-stem/))
