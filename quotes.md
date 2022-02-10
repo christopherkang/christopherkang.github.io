@@ -33,3 +33,5 @@ Where there is discord, may we bring harmony. Where there is error, may we bring
 If most of us are ashamed of shabby clothes and shoddy furniture, let us be more ashamed of shabby ideas and shoddy philosophies. (Unknown)
 
 You have to live with your mind your whole life... You build your mind. So make it into something you want to live with. (Marilynne Robinson, h/t [Wired](https://www.wired.com/story/how-we-learned-to-love-pedagogical-vapor-stem/))
+
+...while hope might well be foolish, despair is even more so. (Robert Zaretsky, [Foreign Affairs](https://www.foreignaffairs.com/articles/2019-11-01/cure-plague-decency))
