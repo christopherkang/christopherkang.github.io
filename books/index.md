@@ -12,6 +12,8 @@ I enjoy books that help me think in new perspectives. I have a particular affini
 I don't think I have a favorite book. I regularly read the NYT, WSJ, Brookings, AER, AER: Insights, and TED Ideas. I also enjoy Psyche and Aeon.
 
 **2022**
+- (February; **Present**) *The Art of Doing Science and Engineering*, Richard Hamming
+- (February) *Infomocracy*, Malka Older (Re-read)
 - (January) *Autonomous*, Annalee Newitz
 - (January) *The Road*, Cormac McCarthy (Re-read)
 
