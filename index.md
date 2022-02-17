@@ -5,7 +5,7 @@ published: true
 
 # Short Bio
 
-I'm Chris, a senior at the University of Washington double majoring in Computer Science and Economics. My research interests are best described as *full stack quantum computation*, including co-designing quantum algorithms with NISQ hardware and general theory research into quantum algorithms. Beyond my research, I enjoy learning about science and tech policy, thinking philsophically, and meeting new people.
+I'm Chris, a senior at the University of Washington double majoring in Computer Science and Economics. My research interests are best described as *full stack quantum computation*, including co-designing quantum algorithms with NISQ hardware and general theory research into quantum algorithms. Beyond my research, I enjoy learning about science and tech policy, thinking philosophically, playing acoustic guitar and violin, and meeting new people.
 
 (02/10/22: Update - I will soon be a first-year PhD student... somewhere! This page will be updated promptly as details solidify.)
 
