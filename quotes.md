@@ -35,3 +35,7 @@ If most of us are ashamed of shabby clothes and shoddy furniture, let us be more
 You have to live with your mind your whole life... You build your mind. So make it into something you want to live with. (Marilynne Robinson, h/t [Wired](https://www.wired.com/story/how-we-learned-to-love-pedagogical-vapor-stem/))
 
 ...while hope might well be foolish, despair is even more so. (Robert Zaretsky, [Foreign Affairs](https://www.foreignaffairs.com/articles/2019-11-01/cure-plague-decency))
+
+"Jude," says Dr. Loehmann. "You've come back." He takes a breath. "Yes," he says. "I've decided to stay." (Hanya Yanagihara, *A Little Life*)
+
+We have faith that future generations will know that here, in the middle of the twentieth century, there came a time when men of good will found a way to unite and produce and fight to destroy the forces of ignorance, and intolerance, and slavery, and war. (FDR)
