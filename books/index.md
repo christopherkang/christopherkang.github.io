@@ -12,6 +12,12 @@ I enjoy books that help me think in new perspectives. I have a particular affini
 I don't think I have a favorite book. I regularly read the NYT, WSJ, Brookings, AER, AER: Insights, and TED Ideas. I also enjoy Psyche and Aeon.
 
 **2022**
+- (April; **Present**) *Reel Bay*, Jana Larson
+- (April; **Present**) *Asymmetry*, Lisa Halliday 
+- (March) *The Plot*, Jean Hanff Korelitz
+- (March) *And Now You Can Go*, Vendela Vida
+- (March) *Project Hail Mary*, Andy Weir
+- (March) *A Little Life*, Hanya Yanagihara (Re-read)
 - (February; **Present**) *The Art of Doing Science and Engineering*, Richard Hamming
 - (February) *Infomocracy*, Malka Older (Re-read)
 - (January) *Autonomous*, Annalee Newitz
