@@ -14,6 +14,8 @@ I don't think I have a favorite book. I regularly read the NYT, WSJ, Brookings, 
 **2022**
 - (April; **Present**) *Reel Bay*, Jana Larson
 - (April; **Present**) *Asymmetry*, Lisa Halliday 
+- (April; **Present**) *Reel Bay*, Jana Larson
+- (March) *On Living*, Kerry Egan
 - (March) *The Plot*, Jean Hanff Korelitz
 - (March) *And Now You Can Go*, Vendela Vida
 - (March) *Project Hail Mary*, Andy Weir
