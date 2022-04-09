@@ -12,7 +12,6 @@ I enjoy books that help me think in new perspectives. I have a particular affini
 I don't think I have a favorite book. I regularly read the NYT, WSJ, Brookings, AER, AER: Insights, and TED Ideas. I also enjoy Psyche and Aeon.
 
 **2022**
-- (April; **Present**) *Reel Bay*, Jana Larson
 - (April; **Present**) *Asymmetry*, Lisa Halliday 
 - (April; **Present**) *Reel Bay*, Jana Larson
 - (March) *On Living*, Kerry Egan
