@@ -12,7 +12,10 @@ I enjoy books that help me think in new perspectives. I have a particular affini
 I don't think I have a favorite book. I regularly read the NYT, WSJ, Brookings, AER, AER: Insights, and TED Ideas. I also enjoy Psyche and Aeon.
 
 **2022**
-- (April; **Present**) *Asymmetry*, Lisa Halliday 
+- (April; **Present**) Pure Colour, Sheila Heti
+- (April; **Present**) Drive Your Plow Over the Bones of the Dead, Olga Tokarczuk
+- (April) *War Dances*, Sherman Alexie
+- (April) *Asymmetry*, Lisa Halliday 
 - (April; **Present**) *Reel Bay*, Jana Larson
 - (March) *On Living*, Kerry Egan
 - (March) *The Plot*, Jean Hanff Korelitz
@@ -67,6 +70,8 @@ I don't think I have a favorite book. I regularly read the NYT, WSJ, Brookings, 
 - (Mar) _Bad Blood_, John Carreyrou
 
 **To-Read**
+- Sea of Tranquility
+- The Trouble with Happiness: And Other Stories
 - Letters to a Young Poet, Rainer Maria Rilke
 - Parable of the Sower (Chaytan)
 - The other Wes Moore (Jackie)
