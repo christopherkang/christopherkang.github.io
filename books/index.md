@@ -70,6 +70,7 @@ I don't think I have a favorite book. I regularly read the NYT, WSJ, Brookings, 
 - (Mar) _Bad Blood_, John Carreyrou
 
 **To-Read**
+- The books of Jacob (Jakub)
 - Sea of Tranquility
 - The Trouble with Happiness: And Other Stories
 - Letters to a Young Poet, Rainer Maria Rilke
