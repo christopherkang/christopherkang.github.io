@@ -71,6 +71,10 @@ I don't think I have a favorite book. I regularly read the NYT, WSJ, Brookings, 
 - (Mar) _Bad Blood_, John Carreyrou
 
 **To-Read**
+- Range: Why Generalists Triumph in a Specialized World
+- Kafka on the Shore
+- The Idiot, Either/Or
+- Tuesdays wih Morrie (Stefan)
 - The books of Jacob (Jakub)
 - Sea of Tranquility
 - The Trouble with Happiness: And Other Stories
