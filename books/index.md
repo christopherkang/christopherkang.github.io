@@ -12,9 +12,13 @@ I enjoy books that help me think in new perspectives. I have a particular affini
 I don't think I have a favorite book. I regularly read the NYT, WSJ, Brookings, AER, AER: Insights, and TED Ideas. I also enjoy Psyche and Aeon.
 
 **2022**
+- (June) *Finistère*, Fritz Peters
+- (June) *Faster Higher Farther*, Jack Ewing
+- (May) *On Living*, Kerry Egan
+- (May) *Flowers for Algernon*, Daniel Keyes (Re-read)
 - (April; **Present**) *Active Liberty*, Stephen Breyer
 - (April; **Present**) *Pure Colour*, Sheila Heti
-- (April; **Present**) *Drive Your Plow Over the Bones of the Dead*, Olga Tokarczuk
+- (April) *Drive Your Plow Over the Bones of the Dead*, Olga Tokarczuk
 - (April) *War Dances*, Sherman Alexie
 - (April) *Asymmetry*, Lisa Halliday 
 - (April; **Present**) *Reel Bay*, Jana Larson
