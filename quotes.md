@@ -51,3 +51,5 @@ I think that’s very important and however you learn that, once you learn it, y
 It's good to be quick, but it's more important to be deep. (Jeff Kahn, repeated by [Jinyoung Park](https://www.youtube.com/watch?v=7H2YvxefFro))
 
 Freedom is the process by which you develop a practice for being unavailable for servitude. (Alla Gutnikova, [n+1](https://www.nplusonemag.com/online-only/online-only/my-eyes-are-open/))
+
+There are decades where nothing happens; and there are weeks where decades happen. (Vladimir Ilyich Lenin)
