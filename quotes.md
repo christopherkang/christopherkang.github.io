@@ -53,3 +53,5 @@ It's good to be quick, but it's more important to be deep. (Jeff Kahn, repeated 
 Freedom is the process by which you develop a practice for being unavailable for servitude. (Alla Gutnikova, [n+1](https://www.nplusonemag.com/online-only/online-only/my-eyes-are-open/))
 
 There are decades where nothing happens; and there are weeks where decades happen. (Vladimir Ilyich Lenin)
+
+“The good life is one inspired by love and guided by knowledge.” (Bertrand Russell)

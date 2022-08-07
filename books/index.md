@@ -12,6 +12,10 @@ I enjoy books that help me think in new perspectives. I have a particular affini
 I don't think I have a favorite book. I regularly read the NYT, WSJ, Brookings, AER, AER: Insights, and TED Ideas. I also enjoy Psyche and Aeon.
 
 **2022**
+- (August) *The Idiot*, Elif Batuman
+- (July) *Call Me By Your Name*, Andre Aciman (Re-read)
+- (July; **Present**) *I'll Steal You Away*, Niccolo Ammaniti
+- (July) *Never Let Me Go*, Kazuo Ishiguro
 - (June) *Finistère*, Fritz Peters
 - (June) *Faster Higher Farther*, Jack Ewing
 - (May) *On Living*, Kerry Egan
