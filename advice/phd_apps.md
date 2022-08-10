@@ -20,6 +20,8 @@ You should show your statement to people from each group before taking a pass ov
 
 Nelson Liu’s [PhD Statement of Purpose](https://blog.nelsonliu.me/2020/11/11/phd-personal-statement/) is a great template, and Chris recommends it. In particular, Nelson addresses the question, “Why do you want to apply to this school?”
 
+Chris' SoP is also available [here](./kang_sop_dec_2021.pdf).
+
 ## Letters of Recommendation
 Typically, a PhD application calls for three letters of recommendation:
 - Two of them should be research related, ideally with well-known faculty in your field
