@@ -5,12 +5,16 @@ published: true
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
 </style>
+
 
 <center>
 <span style="font-family:Crimson Text; font-size: 30pt; text-align:center">
 <strong>
+<i>
 “The good life is one inspired by love and guided by knowledge.” 
+</i>
 </strong>
 
 <div>
@@ -31,7 +35,7 @@ published: true
 {% endfor %}
 </div>
 
-<table>
+<table  style="font-family:Crimson Text; font-size: 15pt;">
   {% for row in site.data.books-sample %}
     {% if forloop.first %}
     <tr>
