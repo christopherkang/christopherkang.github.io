@@ -5,19 +5,16 @@ published: true
 
 # Short Bio
 
-I'm Chris, a senior at the University of Washington double majoring in Computer Science and Economics. My research interests are best described as *full stack quantum computation*, including co-designing quantum algorithms with NISQ hardware and general theory research into quantum algorithms. 
+I'm Chris, a first-year CS PhD student at the University of Chicago. My research interests are best described as *full stack quantum computation*, including co-designing quantum algorithms with NISQ hardware and general theory research into quantum algorithms.
 
 Beyond my research, I enjoy learning about science and tech policy, thinking philosophically, playing acoustic guitar and violin, and meeting new people.
 
-I am grateful and excited to join the University of Chicago as a first-year CS PhD student in Fall 2022.
+I attained a BS at the University of Washington in Computer Science and Economics, where I was advised by many amazing scientists, including [Paul Beame](https://homes.cs.washington.edu/~beame/beame.html) (UW), [Karol Kowalski](https://www.pnnl.gov/science/staff/staff_info.asp?staff_num=8494) (PNNL), Sriram Krishnamoorthy (PNNL), and Nathan Wiebe (UToronto). 
 
 
-# Current Projects (Research & Otherwise)
+## Current Projects (Research & Otherwise)
 * **Memory-efficient phase estimation-based Hamiltonian simulation techniques**
 * **Co-designed control algorithms for hybrid boson-qubit quantum computers**
-* **General USTPC tech policy recommendations**
-* **Improving access to ugrad research within UW CSE**
-
 
 # Academic
 ## Notable Papers
@@ -41,22 +38,16 @@ I'm particularly interested in macroeconomics and monetary policy. I'll be takin
 I am also interested in impact-oriented work, especially in empowering organizations to better serve their stakeholders.  -->
 
 
-# Extracurricular
+# Additionally...
 ## Service
-I am on special appointment at UW CSE to improve the undergraduate research experience. If you have comments, questions, or concerns, you're welcome to reach out to me!
-
-## Leadership
-I served as Chair/Co-Chair of the [Student Advisory Council](https://sac.cs.washington.edu). During my tenure, SAC has transformed to focus on faculty and staff relationships for actionable change. My main regret was that I wasn't able to do more due to personal limitations; I hope to continue honing my leadership skills for the next opportunity.
-
-## Involvement
 * ACM US Tech Policy Council (2021-)
-* UW CSE Diversity Committee (2019-)
+* Q++ - LGBTQ @ UW CSE (2018-2022)
+* UW CSE Diversity Committee (2019-2022)
+* SAC (2018-2021; served as Chair/Co-Chair over two years)
 * Dawgbytes - K12 Outreach @ UW CSE (2019-2020)
-* SAC (2018-)
-* Q++ - LGBTQ @ UW CSE (2018-)
 
 ## Awards
-I have been graciously supported by the Mathematics, Economics, and Computer Science departments / schools:
+I have been graciously supported by UW's departments / schools in Mathematics, Economics, and Computer Science:
 * Hellmut Golde Endowed Scholarship, UW CSE (2021)
 * George and Pearl Corkery Scholarship in Economics (2021)
 * Top Honors Calculus Student (2019)
