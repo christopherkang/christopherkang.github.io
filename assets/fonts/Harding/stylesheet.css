@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Harding';
+    src: url('Harding.woff2') format('woff2'), url('Harding.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}

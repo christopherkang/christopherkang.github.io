@@ -53,3 +53,14 @@
        url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf') format('truetype'),
        url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg#NotoSans') format('svg');
 }
+
+// HARDING FONT
+
+@font-face {
+  font-family: 'Harding';
+  src: url('../fonts/Harding/Harding.woff2') format('woff2'),
+      url('../fonts/Harding/Harding.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
