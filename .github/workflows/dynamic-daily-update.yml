@@ -26,5 +26,11 @@ jobs:
     - name: Grab books file from spreadsheet
       run: curl -o ./_data/books_with_covers.csv -fsSL "https://docs.google.com/spreadsheets/d/e/2PACX-1vQQwnY3FmhzuWhAtbmsjFXWmzjCg_-xVfpWFIQBkWi3DZJBfwsF_t9f4vCv7rz8IN9OXBfMjRZCWRWw/pub?gid=0&single=true&output=csv"
     
+    - name: Commit files
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git commit -m "Update books data file" -a
+    
     - name: Push changes
       uses: ad-m/github-push-action@master
