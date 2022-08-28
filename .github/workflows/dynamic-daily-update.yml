@@ -1,0 +1,28 @@
+# This is a basic workflow that is manually triggered
+
+name: Update-static-files
+
+# Controls when the action will run. Workflow runs when manually triggered using the UI
+# or API.
+on:
+  schedule:
+    - cron: '0 0 * * 6'
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "greet"
+  update_books:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
+        fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
+    - name: Grab books file from spreadsheet
+      run: curl -o ./_data/books_with_covers.csv -fsSL "https://docs.google.com/spreadsheets/d/e/2PACX-1vQQwnY3FmhzuWhAtbmsjFXWmzjCg_-xVfpWFIQBkWi3DZJBfwsF_t9f4vCv7rz8IN9OXBfMjRZCWRWw/pub?gid=0&single=true&output=csv"
+    
+    - name: Push changes
+      uses: ad-m/github-push-action@master
