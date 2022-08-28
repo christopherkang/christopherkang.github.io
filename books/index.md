@@ -26,7 +26,7 @@ published: true
 
 <center>
 <div class ="image-gallery">
-{% for row in site.data.books-sample %}
+{% for row in site.data.books_with_covers %}
 {% if row["Re-read?"] == "FALSE" and row["Status"] == nil %}
 <div class="box">
 <a href="{{row["Google Books"] }}"> <img src="{{ row["Img link"] }}" alt="test" width="128" height="200" class="img-gallery"> </a>
@@ -36,7 +36,7 @@ published: true
 </div>
 
 <table  style="font-family:Crimson Text; font-size: 15pt;">
-  {% for row in site.data.books-sample %}
+  {% for row in site.data.books_with_covers %}
     {% if forloop.first %}
     <tr>
       {% for pair in row limit: 5 %}
