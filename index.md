@@ -5,26 +5,24 @@ published: true
 
 # Short Bio
 
-I'm Chris, a first-year CS PhD student at the University of Chicago. My research interests are best described as *full stack quantum computation*, including co-designing quantum algorithms with NISQ hardware and general theory research into quantum algorithms.
+I'm Chris, a second-year CS PhD student at the University of Chicago advised by Fred Chong. My research interests are best described as *quantum architectures for Hamiltonian simulation*. I aim to design algorithms and platforms which can run transformational simulations in materials science and chemistry.
 
-Beyond my research, I enjoy learning about science and tech policy, thinking philosophically, playing acoustic guitar and violin, and meeting new people.
-
-I attained a BS at the University of Washington in Computer Science and Economics, where I was advised by many amazing scientists, including [Paul Beame](https://homes.cs.washington.edu/~beame/beame.html) (UW), [Karol Kowalski](https://www.pnnl.gov/science/staff/staff_info.asp?staff_num=8494) (PNNL), Sriram Krishnamoorthy (PNNL), and Nathan Wiebe (UToronto). 
+I attained a BS at the University of Washington in Computer Science and Economics, where I was advised by [Paul Beame](https://homes.cs.washington.edu/~beame/beame.html) (UW), [Karol Kowalski](https://www.pnnl.gov/science/staff/staff_info.asp?staff_num=8494) (PNNL), Sriram Krishnamoorthy (PNNL), and Nathan Wiebe (UToronto). 
 
 
-## Current Projects (Research & Otherwise)
-* **Memory-efficient phase estimation-based Hamiltonian simulation techniques**
-* **Co-designed control algorithms for hybrid boson-qubit quantum computers**
+<!-- ## Current Projects (Research & Otherwise) -->
+<!-- * **Memory-efficient phase estimation-based Hamiltonian simulation techniques** -->
+<!-- * **Co-designed control algorithms for hybrid boson-qubit quantum computers** -->
 
-# Academic
-## Notable Papers
-* **[Statement on Principles for the Development and Deployment of Equitable, Private, and Secure Remote Test Administration Systems](\assets\papers\ustpc-statement-remote-test-admin-systems.pdf)** and **[accompanying Op-Ed](https://www.insidehighered.com/views/2021/11/03/questions-colleges-should-ask-about-remote-testing-opinion)** (USTPC); Statement published by the Association for Computing Machinery, written with the support of Simson Garfinkel, Jeanna Matthews, and Jeremy Epstein.
-* **[A Computational Approach To Understanding Lobbying Behavior](\assets\papers\Kang_2021Sp_CSE547_Lobbying.pdf)** (Big Data); A paper describing computational methods for studying lobbyist behavior. Written with the S-tier [Jacob Peplinski](http://ubicomp-jake.com/).
-* **[So many decisions, so little time: A Brief Introduction to Stochastic Multi-Armed Bandits](\assets\papers\Kang_2021Wi_Bandits.pdf)** (Random Algos); A final paper giving a brief introduction to Multi-Armed Bandits from a philosophical perspective.
-* **[Strength Through Science: Optimizing the DOE National Laboratories](\assets\papers\Kang_2020Wi_PUBPOL_FinalPaper.pdf)** (Intro to Public Policy); a study investigating how Department of Energy National labs are operated and recommendations to improve their effectiveness.
-* **[Randomized Hamiltonian Compilation](\assets\papers\Kang_2020Sp_CSE_RandomizedHamiltonian.pdf)** (Graduate Quantum Computing); demonstrating core equations in [Earl Campbell's random Hamiltonian Compilation](https://arxiv.org/abs/1811.08017) for quantum simulation.
-* **[A Brief Introduction to Quantum Algorithms](\assets\papers\Kang_2020Sp_Math336_QuantumReview.pdf)** (Honors Real + Complex Analysis); explored quantum search and factoring (Grover's and Shor's, respectively), and demonstrated core theorems and lemmas.
-* **[Improving Financial Inclusion in Ghana](\assets\papers\Kang_2020Sp_Honors232_FIGhana.pdf)** (Social Entrepreneurship); research into existing strategies for financial inclusion in Ghana alongside strategies for public/private sectors players.
+<!-- # Academic -->
+<!-- ## Notable Papers -->
+<!-- * **[Statement on Principles for the Development and Deployment of Equitable, Private, and Secure Remote Test Administration Systems](\assets\papers\ustpc-statement-remote-test-admin-systems.pdf)** and **[accompanying Op-Ed](https://www.insidehighered.com/views/2021/11/03/questions-colleges-should-ask-about-remote-testing-opinion)** (USTPC); Statement published by the Association for Computing Machinery, written with the support of Simson Garfinkel, Jeanna Matthews, and Jeremy Epstein. -->
+<!-- * **[A Computational Approach To Understanding Lobbying Behavior](\assets\papers\Kang_2021Sp_CSE547_Lobbying.pdf)** (Big Data); A paper describing computational methods for studying lobbyist behavior. Written with the S-tier [Jacob Peplinski](http://ubicomp-jake.com/). -->
+<!-- * **[So many decisions, so little time: A Brief Introduction to Stochastic Multi-Armed Bandits](\assets\papers\Kang_2021Wi_Bandits.pdf)** (Random Algos); A final paper giving a brief introduction to Multi-Armed Bandits from a philosophical perspective. -->
+<!-- * **[Strength Through Science: Optimizing the DOE National Laboratories](\assets\papers\Kang_2020Wi_PUBPOL_FinalPaper.pdf)** (Intro to Public Policy); a study investigating how Department of Energy National labs are operated and recommendations to improve their effectiveness. -->
+<!-- * **[Randomized Hamiltonian Compilation](\assets\papers\Kang_2020Sp_CSE_RandomizedHamiltonian.pdf)** (Graduate Quantum Computing); demonstrating core equations in [Earl Campbell's random Hamiltonian Compilation](https://arxiv.org/abs/1811.08017) for quantum simulation. -->
+<!-- * **[A Brief Introduction to Quantum Algorithms](\assets\papers\Kang_2020Sp_Math336_QuantumReview.pdf)** (Honors Real + Complex Analysis); explored quantum search and factoring (Grover's and Shor's, respectively), and demonstrated core theorems and lemmas. -->
+<!-- * **[Improving Financial Inclusion in Ghana](\assets\papers\Kang_2020Sp_Honors232_FIGhana.pdf)** (Social Entrepreneurship); research into existing strategies for financial inclusion in Ghana alongside strategies for public/private sectors players. -->
 
 
 <!-- ## Interests
