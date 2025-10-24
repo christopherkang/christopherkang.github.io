@@ -5,7 +5,7 @@ published: true
 
 # Short Bio
 
-I'm Chris, a second-year CS PhD student at the University of Chicago advised by Fred Chong. My research interests are best described as *quantum architectures for Hamiltonian simulation*. I aim to design algorithms and platforms which can run transformational simulations in materials science and chemistry.
+I'm Chris, a fourth-year CS PhD student at the University of Chicago advised by Fred Chong. My research interests are best described as *quantum algorithms and architectures for practical Hamiltonian simulation*.
 
 I attained a BS at the University of Washington in Computer Science and Economics, where I was advised by [Paul Beame](https://homes.cs.washington.edu/~beame/beame.html) (UW), [Karol Kowalski](https://www.pnnl.gov/science/staff/staff_info.asp?staff_num=8494) (PNNL), Sriram Krishnamoorthy (PNNL), and Nathan Wiebe (UToronto). 
 
